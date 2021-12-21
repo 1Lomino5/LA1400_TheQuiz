@@ -38,7 +38,7 @@ Im Porjekt LA1400 haben wir diesen Befehl verwendet um bei jeder Frage ein neues
 
 
 ## Verifikation
-
+Mit der Anleitung sollten die Leser wissen, wie man in Winforms eine PictureBox ersellt, diese befült und mit hilfe des Codes das Bild darin ändert.
 
 ## Reflexion
-
+Im Projekt habe ich viele neue Erfahrungen gesammelt, eine der grössten Erfahrung bezieht sich auf das Arbeit in der Gruppe. Ich habe bereits zuvor Projekte gehabt, welche ich in Gruppen erarbeitet habe, jedoch kannte ich dort die Leute mit denen ich arbeitet bereits im Vorraus. Bei diesem Projekt war das ganz anders, als wir am ersten Tag begangen lernte ich gleichzeitig meine Arbeitskollegen kennen. Es war sehr interessent ein Projekt auf diese weise zu begingen, am Anfang gab es ein wenig stille da man nicht genau wusste wie man die andere Personen aus der Gruppe ansprechen sollte, doch mit der Zeit wurde es immer besser, die Arbeit wurde lokerer dafür aber auch fokusierter und gezielter. Ein weiterer grosser neuer Faktor diese Projekt war das wir uns nicht mehr auf Konsolenanwendungen beschränkten
