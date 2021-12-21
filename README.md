@@ -2,10 +2,13 @@
 Ein Quizspiel erstellt mit C#
 
 #### Was ist das Ziel dieses Portfolios ?
-###### Die LeserInnen können am Ende dieses Beitrages eine Winforms Projekt erstellen, ein Bild in dieses einfügen und im Verlauf des Codes das Bild verändern.
+###### Die LeserInnen können am Ende dieses Beitrages eine PictureBox in Winforms erstellen, diese mit Bilder befüllen und im Verlauf des Codes das angezeigte Bild ändern.
 <br>
 
-## Wie man einen Bild in ein Winforms eingfügt
+## Wie man eine PictureBox erstellt und befüllt
+
+[![Mein Foto](http://img.youtube.com/vi/4MSXQ1RMtw/0.jpg)](https://youtu.be/_4MSXQ1RMtw)
+
 
 ### Anleitung
 
