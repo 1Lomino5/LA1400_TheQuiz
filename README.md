@@ -34,6 +34,7 @@ Was man nicht vergessen darf ist am Ende des Befehls ein ``;`` einzufügen um di
  
 ### Einbettung in einen Code
 Im Porjekt LA1400 haben wir diesen Befehl verwendet um bei jeder Frage ein neues Bild anzeigen zu lassen. Dafür haben wir für jede Frage ein Case erstellt, bei dem wir dann den Befehl verwendeten. (Im Bild rot markiert):
+![](LA1400_TheQuiz/Pictures/Beispiel.jpg)
 
 
 ## Verifikation
