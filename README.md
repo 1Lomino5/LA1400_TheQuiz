@@ -7,7 +7,7 @@ Ein Quizspiel erstellt mit C#
 
 ## Wie man eine PictureBox erstellt und befüllt
 
-[![](images/mqdefault.jpg)](https://youtu.be/_4MSXQ1RMtw)
+[![Mein Foto](images/mqdefault.jpg)](https://youtu.be/_4MSXQ1RMtw)
 
 
 ### Anleitung
