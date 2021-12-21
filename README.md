@@ -2,10 +2,10 @@
 Ein Quizspiel erstellt mit C#
 
 #### Was ist das Ziel dieses Portfolios ?
-###### Die LeserInnen können am Ende dieses Beitrages einen Timer in C# erstellen und wissen wie man damit die Zeit stoppen kann. 
+###### Die LeserInnen können am Ende dieses Beitrages einen Bild in Winforms einfügen und dieses im Verlauf des Codes verändern.
 <br>
 
-## Wie man einen Timer in C# erstellt
+## Wie man einen Bild in ein Winforms eingfügt
 
 ### Anleitung
 
